@@ -4,8 +4,8 @@ import Book
 import Menulib
 
 
-# Database.CreateDatabase()
-# Database.CreateTable()
+Database.CreateDatabase()
+Database.CreateTable()
 
 while True:
     Book.clearscreen()
